@@ -4,8 +4,6 @@
 A modern, responsive portfolio website built with **React** and **Tailwind CSS**.  
 Showcasing my skills, projects, and ways to get in touch.
 
-🔗 **Live Demo:** [View Portfolio](https://expert-trout-jjqw6rjpqvqghvrv.github.dev/)
-
 ---
 
 ## ✨ Features
